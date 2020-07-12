@@ -1,4 +1,4 @@
-# Hi, I'm Robert Bright  👋🏾 👩🏾‍💻 👨‍💻
+# Hi, I'm Robert Bright  👋🏾 👨‍💻
 
 I'm an erudite Software | System | Network Engineer with more than 5+ years of experience in Networking, System engineering, and Software development who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include, Php, Nodejs, ReactJS, JavaScript, APIs + Markup. 
 
