@@ -1,5 +1,6 @@
 # Hi, I'm Robert Bright  👋🏾 👨‍💻
 
+<img src="https://raw.githubusercontent.com/guruskid/guruskid/master/gh-header.jpg" alt="banner that says Robert Bright - Software Engineer, System Engineer and Network Engineer">
 I'm an erudite Software | System | Network Engineer with more than 5+ years of experience in Networking, System engineering, and Software development who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include, Php, Nodejs, ReactJS, JavaScript, APIs + Markup. 
 
 <!--
